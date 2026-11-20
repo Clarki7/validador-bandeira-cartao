@@ -1,0 +1,16 @@
+{
+  "name": "validador-bandeira-cartao",
+  "version": "2.0.0",
+  "description": "Identifica a bandeira de um cartão de crédito e valida o número com o algoritmo de Luhn",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "validar": "node src/index.js"
+  },
+  "keywords": ["cartao-de-credito", "bandeira", "luhn", "validacao", "javascript", "elo", "hipercard"],
+  "author": "Benjamin Clark (https://github.com/Clarki7)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
